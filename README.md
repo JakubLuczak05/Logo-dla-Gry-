@@ -12,22 +12,7 @@ Odpalenie Programu: <br/>
 <img src="https://i.imgur.com/yo4V7TB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Wprowadzenie prawidłowej litery:  <br/>
-<img src="https://i.imgur.com/687LNH1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Wprowadzewnie prawidłowego słowa: <br/>
-<img src="https://i.imgur.com/f2aw9nq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Wprowadzenie nieprawidlowej litery:  <br/>
-<img src="https://i.imgur.com/GQfg25K.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Wprowadzenie nieprawidłowego słowa:  <br/>
-<img src="https://i.imgur.com/Yk4A9fj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
+
 
 
 </p>
