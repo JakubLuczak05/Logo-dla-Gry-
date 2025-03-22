@@ -8,6 +8,18 @@ Gra w
 <h2>Pokaz</h2>
 
 <p align="center">
+Pierwszy pomysł logo: <br/>
+<img src="https://i.imgur.com/yo4V7TB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Drugi pomysł logo: <br/>
+<img src="https://i.imgur.com/yo4V7TB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Trzeci pomysł logo: <br/>
+<img src="https://i.imgur.com/yo4V7TB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
 Oficjalne logo Gry: <br/>
 <img src="https://i.imgur.com/yo4V7TB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
