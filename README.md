@@ -1,7 +1,7 @@
 <h1>Logo dla gry KARANGE</h1>
 
 <h2>Info</h2>
-Logo zostało stworzone dla gry KARNAGE, to gra 3D retro style fps bardzo podobna do starszych popularnych gier jak DOOM i Quake, logo zostało zaprojektowane przez różne rysunki i konsultacji z klientem, zaprojektowałem 3 rysunki i następnie wysłałem je do klienta, klient poinformował mnie że pierwszy projekt najbardziej pasuje do jego gry. By stworzyć te Logo wybrałem czcionke która najbardziej pasuje do stylu retro, dopasowałem kolor jak i efekty czcionki by osiągnąć futurystyczny wygląd by pasowało do gry. Następnie umieściłem czcionke na czarne tło i powiększyłem do proporcji, 
+Logo zostało stworzone dla gry KARNAGE, to gra 3D retro style fps bardzo podobna do starszych popularnych gier jak DOOM i Quake, logo zostało zaprojektowane przez różne rysunki i konsultacji z klientem, zaprojektowałem 3 rysunki i następnie wysłałem je do klienta, klient poinformował mnie że pierwszy projekt najbardziej pasuje do jego gry. By stworzyć te Logo wybrałem czcionke która najbardziej pasuje do stylu retro, dopasowałem kolor jak i efekty czcionki by osiągnąć futurystyczny wygląd by pasowało do gry. Następnie umieściłem czcionke na czarne tło i powiększyłem do proporcji, poprosiłem klienta o gotowy rysunek postaci z gry KARNAGE, następnie umieściłem ten rysunek nad czcionką i tak finalnie wyglądało logo. 
 <br />
 
 
