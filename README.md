@@ -9,15 +9,15 @@ Gra w
 
 <p align="center">
 Pierwszy pomysł logo: <br/>
-<img src="https://i.imgur.com/yo4V7TB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/HT3FsJ2.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Drugi pomysł logo: <br/>
-<img src="https://i.imgur.com/yo4V7TB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/y5ZC1wX.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Trzeci pomysł logo: <br/>
-<img src="https://i.imgur.com/yo4V7TB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/6nA5iho.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Oficjalne logo Gry: <br/>
